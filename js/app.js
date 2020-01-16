@@ -35,7 +35,7 @@ const stopMusic = (sound) => {
 const keyboardAlert = () => { 
     setTimeout(()=>{
         alert('keyboard is required for this app ')
-    },2000)
+    },1000)
     
 }
 
